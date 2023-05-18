@@ -10,7 +10,7 @@
   --accent-color: #2A57A2;
   --body-font-family: -apple-system, BlinkMacSystemFont, sans-serif;
   --radius: 6px;
-  --logo-image: url("http://www.rotarymonzavillareale.it/templates/rotary-2014/images/logo.png");
+  --logo-image: url("https://donazionircmvr.github.io/logo.png");
   --form-width: 750px;
 }
 
@@ -363,7 +363,7 @@ pre {
 :root {
   --accent-color: #2A57A2;
   --headline-color: var(--accent-color);
-  --logo-image: url("http://www.rotarymonzavillareale.it/templates/rotary-2014/images/logo.png");
+  --logo-image: url("https://donazionircmvr.github.io/logo.png");
 }
 
 .pasha-image-stack {
